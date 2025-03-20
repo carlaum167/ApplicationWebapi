@@ -10,4 +10,4 @@ async function connect(){
 }
 connect();
 
-module.exports = {}
+module.exports = {connect}
